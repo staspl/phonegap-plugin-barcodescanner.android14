@@ -15,3 +15,6 @@ android {
         exclude 'META-INF/LICENSE'
     }
 }
+
+android.useAndroidX=true
+android.enableJetifier=true
